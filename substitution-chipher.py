@@ -95,3 +95,5 @@ translate["M"] = "B"
 translate["Y"] = "K"
 
 printTra(input, translate)
+print()
+print(input)
