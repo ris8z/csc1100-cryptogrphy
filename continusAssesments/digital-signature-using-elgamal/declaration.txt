@@ -1,0 +1,10 @@
+author: Giuseppe Esposito
+student id: 22702705
+date: 22/11/2025
+
+Everything in these files is considered my own work with the except of the following resources:
+ 
+[1] baeldung, “SHA-256 Hashing in Java | Baeldung,” Baeldung, May 07, 2019. https://www.baeldung.com/sha-256-hashing-java ‌
+[2] “HexFormat (Java SE 17 & JDK 17),” Oracle.com, 2025. https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/HexFormat.html  ‌ 
+[3] “Formatter (Java Platform SE 8 ),” Oracle.com, Jun. 30, 2025. https://docs.oracle.com/javase/8/docs/api/java/util/Formatter.html#syntax ‌
+[4] “BigInteger (Java Platform SE 8 ),” docs.oracle.com. https://docs.oracle.com/javase/8/docs/api/java/math/BigInteger.html
